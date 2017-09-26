@@ -15,12 +15,12 @@ yii2-imagine
 
 Using:
 
-Put ImageUploadBehavior in common\components
+Put ImageUploadBehavior.php in common\components
 
 Code in model
 
 ```
-use common\components\ImageUploadBehavior
+use common\components\ImageUploadBehavior;
 
 public function behaviors()
 {
