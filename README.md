@@ -17,9 +17,9 @@ Using:
 
 Put ImageUploadBehavior.php in common\components
 
-Code in model
+Code in the model
 
-```
+```php
 use common\components\ImageUploadBehavior;
 
 public function behaviors()
